@@ -1,0 +1,47 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+nav {
+  background-color: black;
+  width: 150px;
+  height: 630px;
+}
+
+a {
+  display: block;
+  padding: 20px 5px;
+  color: white;
+  text-decoration: none;
+}
+
+img {
+  width: 90px;
+  height: 90px;
+}
+
+a:hover {
+  background-color: red;
+}
+
+.header {
+  margin-left: 150px;
+}
+
+.cadastro {
+  background-color: red;
+  margin-left: 150px;
+  display: flex;
+  justify-content: center;
+}
+.menu {
+  position: fixed;
+  margin-bottom: 100%;
+  height: 590px;
+}
+
+.box-servicos {
+  background-color: gray;
+  height: 588px;
+}

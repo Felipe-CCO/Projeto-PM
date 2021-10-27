@@ -1,0 +1,26 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+nav {
+  background-color: black;
+  width: 150px;
+  height: 630px;
+}
+
+a {
+  display: block;
+  padding: 20px 5px;
+  color: white;
+  text-decoration: none;
+}
+
+img {
+  width: 90px;
+  height: 90px;
+}
+
+a:hover {
+  background-color: red;
+}
